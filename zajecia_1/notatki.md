@@ -32,6 +32,7 @@ style: |
 - Wstępne ustalenie stacku technologicznego
 - Metoda dostarczania nowych wersji oprogramowania
 - Sposób udostępniania aplikacji użytkownikom
+- Monolit vs Mikroserwisy
 
 ---
 <!-- _class: lead -->
