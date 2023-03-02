@@ -72,5 +72,13 @@ style: |
 
 ---
 <!-- _class: lead -->
+## Skalowalność
+<br>
+
+- Czy spodziewamy się zmiennej ilości użytkowników?
+- Czy zmienność może mieć charakter okresowy, czy raczej będzie to jednorodny trend?
+
+---
+<!-- _class: lead -->
 ## Dziękuję za uwagę
 <br>
